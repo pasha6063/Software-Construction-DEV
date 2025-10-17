@@ -1,0 +1,10 @@
+{
+    "editor.fontLigatures": true,
+    "terminal.integrated.fontLigatures.enabled": true,
+    "editor.fontFamily": "'Fira Code', Consolas, 'Courier New', monospace",
+    "workbench.sideBar.location": "left",
+    "terminal.integrated.tabs.defaultIcon": "terminal",
+    "dart.flutterOutline": false,
+    "debug.console.fontFamily": "'Fira Code'",
+    "terminal.integrated.fontFamily": "'Fira Code', 'Segoe UI Emoji'"
+}
